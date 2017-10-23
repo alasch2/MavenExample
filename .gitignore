@@ -2,3 +2,6 @@
 .idea
 *.iml
 target
+*.txt
+/sealights-config.properties
+/logs/
